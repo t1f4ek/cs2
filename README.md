@@ -1,4 +1,5 @@
 Параметры запуска:
+
 -novid -freq 240 +mat_queue_mode 2 -console +exec t1f.cfg -allow_third_party_software -language english
 
 Настройки графики:
